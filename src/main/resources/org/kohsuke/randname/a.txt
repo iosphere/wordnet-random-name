@@ -52,11 +52,8 @@ bare
 basic
 beautiful
 bitter
-black
 bland
 blank
-blind
-blonde
 bloody
 bold
 brave
@@ -71,7 +68,6 @@ central
 certain
 characteristic
 charismatic
-cheap
 cheerful
 childish
 chronic
@@ -125,7 +121,6 @@ dangerous
 dark
 dead
 deadly
-deaf
 decisive
 decorative
 deep
@@ -139,7 +134,6 @@ difficult
 digital
 diplomatic
 direct
-dirty
 discreet
 distant
 distinct
@@ -197,7 +191,6 @@ far
 fashionable
 fast
 fastidious
-fat
 favorable
 federal
 feminine
@@ -251,17 +244,13 @@ high
 hilarious
 historical
 holy
-homosexual
 honest
 honorable
 horizontal
-hostile
 hot
 huge
 human
 hungry
-ignorant
-illegal
 immune
 imperial
 implicit
@@ -274,7 +263,6 @@ incapable
 incongruous
 incredible
 independent
-indigenous
 indirect
 indoor
 industrial
@@ -343,7 +331,6 @@ memorable
 mental
 middle-class
 mild
-military
 minimum
 minor
 miserable
@@ -360,7 +347,6 @@ municipal
 musical
 mutual
 narrow
-national
 native
 necessary
 negative
@@ -387,7 +373,6 @@ operational
 opposed
 optimistic
 optional
-oral
 ordinary
 organic
 original
@@ -397,7 +382,6 @@ outer
 outside
 painful
 parallel
-paralyzed
 parental
 particular
 part-time
@@ -447,7 +431,6 @@ pure
 qualified
 quantitative
 quiet
-racial
 random
 rare
 rational
@@ -494,7 +477,6 @@ senior
 sensitive
 separate
 serious
-sexual
 shallow
 sharp
 short
@@ -535,7 +517,6 @@ strong
 structural
 stubborn
 stunning
-stupid
 subjective
 subsequent
 successful
@@ -573,7 +554,6 @@ trivial
 tropical
 true
 typical
-ugly
 ultimate
 unanimous
 unaware
@@ -605,7 +585,6 @@ vertical
 viable
 vicious
 vigorous
-violent
 visible
 visual
 vocational
@@ -617,7 +596,6 @@ weekly
 welcome
 well
 wet
-white
 whole
 wild
 wise

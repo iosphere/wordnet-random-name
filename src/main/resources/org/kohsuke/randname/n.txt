@@ -1,14 +1,11 @@
 abbey
 ability
-abortion
 absence
 absorption
-abuse
 academy
 accent
 acceptance
 access
-accident
 account
 accountant
 accumulation
@@ -25,7 +22,6 @@ administration
 administrator
 admiration
 admission
-adoption
 adult
 advance
 advantage
@@ -34,7 +30,6 @@ advertising
 advice
 adviser
 advocate
-affair
 affinity
 afternoon
 age
@@ -45,7 +40,6 @@ agony
 agreement
 agriculture
 aid
-aids
 air
 aircraft
 airline
@@ -204,9 +198,7 @@ bird
 birthday
 biscuit
 bishop
-bitch
 bite
-black
 blackmail
 blade
 blast
@@ -312,7 +304,6 @@ cash
 cassette
 cast
 castle
-casualty
 cat
 catalogue
 catch
@@ -428,7 +419,6 @@ commission
 commitment
 committee
 communication
-communist
 community
 compact
 company
@@ -524,7 +514,6 @@ cousin
 cover
 coverage
 cow
-crack
 craft
 craftsman
 crash
@@ -651,11 +640,9 @@ discount
 discourse
 discovery
 discrimination
-disease
 dish
 disk
 dismissal
-disorder
 display
 disposition
 distance
@@ -879,7 +866,6 @@ fold
 folk
 folklore
 food
-fool
 foot
 football
 force
@@ -1038,7 +1024,6 @@ hen
 herb
 herd
 hero
-heroin
 hierarchy
 highlight
 hill
@@ -1061,7 +1046,6 @@ horse
 hospital
 hospitality
 host
-hostage
 hostility
 hotel
 hour
@@ -1078,7 +1062,6 @@ husband
 hut
 hypothesis
 ice
-ice_cream
 idea
 ideal
 identification
@@ -1186,7 +1169,6 @@ key
 kick
 kid
 kidney
-killer
 king
 kingdom
 kinship
@@ -1197,7 +1179,6 @@ knee
 knife
 knot
 knowledge
-koran
 label
 laboratory
 labour
@@ -1251,7 +1232,6 @@ licence
 lid
 lie
 life
-life_style
 lift
 light
 lily
@@ -1369,7 +1349,6 @@ minority
 minute
 miracle
 mirror
-miscarriage
 misery
 missile
 mist
@@ -1423,8 +1402,6 @@ mutation
 myth
 nail
 name
-nationalism
-nationalist
 nationality
 nature
 navy
@@ -1752,8 +1729,6 @@ queue
 quota
 quotation
 rabbit
-race
-racism
 rack
 radiation
 radical
@@ -1866,7 +1841,6 @@ rider
 ridge
 rifle
 right
-right_wing
 ring
 riot
 rise
@@ -1891,7 +1865,6 @@ route
 routine
 row
 royalty
-rubbish
 rugby
 ruin
 rule
@@ -1965,7 +1938,6 @@ service
 session
 set
 settlement
-sex
 shade
 shadow
 shaft
@@ -2134,7 +2106,6 @@ success
 suffering
 sugar
 suggestion
-suicide
 suit
 suite
 sulphur
@@ -2204,7 +2175,6 @@ tent
 term
 terminal
 terrace
-terrorist
 test
 text
 texture
@@ -2350,7 +2320,6 @@ verdict
 version
 vessel
 veteran
-victim
 victory
 video
 view
